@@ -1,13 +1,19 @@
 
 
 
-div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:383838,100:000000&height=200&section=header&text=Deepak%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20|%20Web3%20|%20Robotics&descAlignY=55&descSize=15" width="100%"/> </div> <div align="center"> <a href="mailto:deepaknegi108r@gmail.com"> <img src="https://img.shields.io/badge/Gmail-deepaknegi108r-131313?style=flat-square&logo=gmail" /> </a> <a href="https://twitter.com/deepak_negi__"> <img src="https://img.shields.io/badge/Twitter-@deepak__negi__-131313?style=flat-square&logo=twitter" /> </a> <a href="https://www.linkedin.com/in/deepak-negi-678261302"> <img src="https://img.shields.io/badge/LinkedIn-Deepak_Negi-131313?style=flat-square&logo=linkedin" /> </a> <img src="https://komarev.com/ghpvc/?username=deepaknegi&color=131313&style=flat-square" alt="Profile Views"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF6347&height=200&section=header&text=Deepak%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20|%20Web3%20|%20Robotics&descAlignY=55&descSize=20" width="100%"/> </div> <div align="center"> <a href="mailto:deepaknegi108r@gmail.com"> <img src="https://img.shields.io/badge/Gmail-deepaknegi108r-F44336?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/deepak_negi__"> <img src="https://img.shields.io/badge/Twitter-@deepak__negi__-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/deepak-negi-678261302"> <img src="https://img.shields.io/badge/LinkedIn-Deepak_Negi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=deepaknegi&color=blueviolet&style=flat-square" alt="Profile Views"/> </div>
 🌌 Tech Universe
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,c,git,github,vscode&perline=6&theme=dark" /> </div>
 🛠 Tech Stack
 <table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> <br>React.js </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" /> <br>Node.js </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /> <br>REST API </td> </tr> </table>
 📊 Minimalist Stats
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepaknegi&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=ffffff&title_color=ffffff" alt="Deepak's GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaknegi&theme=dark&background=0d1117&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Deepak's GitHub Streak"/> </div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepaknegi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=FF7F50&title_color=FF7F50" alt="Deepak's GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaknegi&theme=radical&background=0d1117&hide_border=true&ring=FF6347&fire=FF6347&currStreakLabel=FF6347" alt="Deepak's GitHub Streak"/> </div>
 📈 Professional Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaknegi&theme=xcode&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="100%"/> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:383838,100:000000&height=100&section=footer" width="100%"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaknegi&theme=radical&hide_border=true&bg_color=0d1117&color=FF7F50&line=FF6347&point=ffffff" width="100%"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF6347&height=100&section=footer" width="100%"/> </div>
+
+
+
+
+
+
