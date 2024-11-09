@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:1E90FF&height=200&section=header&text=Deepak%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20|%20Web3%20|%20Robotics&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -17,58 +16,42 @@
   <img src="https://komarev.com/ghpvc/?username=deepaknegi&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
-### 🔧 Technologies & Tools I Use
+---
 
-Here are some of the tools and technologies I work with:
+### 🌌 **Tech Universe**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="65" height="65" />
-        <br>React.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express.js" width="65" height="65" />
-        <br>Express.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="TailwindCSS" width="65" height="65" />
-        <br>TailwindCSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="65" height="65" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="65" height="65" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/web3js.svg" alt="Web3" width="65" height="65" />
-        <br>Web3
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" alt="VSCode" width="65" height="65" />
-        <br>VSCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" width="65" height="65" />
-        <br>C
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,c,git,github,vscode&perline=6&theme=dark" />
 </div>
+
+---
+
+### 🛠 **Tech Stack**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+  </tr>
+</table>
 
 ---
 
