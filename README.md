@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:1E90FF&height=200&section=header&text=Deepak%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20|%20Web3%20|%20Robotics&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -18,13 +19,6 @@
 
 ---
 
-### 🌌 **Tech Universe**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,c,git,github,vscode&perline=6&theme=dark" />
-</div>
-
----
 
 ### 🛠 **Tech Stack**
 
