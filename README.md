@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=deepaknegi&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
----
 ### 🔧 Technologies & Tools I Use
 
 Here are some of the tools and technologies I work with:
@@ -26,45 +25,45 @@ Here are some of the tools and technologies I work with:
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="65" height="65" />
         <br>React.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express.js" width="65" height="65" />
         <br>Express.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="65" height="65" />
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="TailwindCSS" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="TailwindCSS" width="65" height="65" />
         <br>TailwindCSS
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="65" height="65" />
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="65" height="65" />
         <br>HTML
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/web3-icon.svg" alt="Web3" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/web3js.svg" alt="Web3" width="65" height="65" />
         <br>Web3
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VSCode" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" alt="VSCode" width="65" height="65" />
         <br>VSCode
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" width="65" height="65" />
         <br>C
       </td>
     </tr>
