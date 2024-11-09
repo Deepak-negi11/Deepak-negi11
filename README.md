@@ -62,18 +62,3 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepaknegi&show_icons=true&theme=transparent&bg_color=ffffff&hide_border=true&icon_color=5D3FD3&title_color=1E90FF" alt="Deepak's GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaknegi&theme=transparent&background=ffffff&hide_border=true&ring=5D3FD3&fire=1E90FF&currStreakLabel=1E90FF" alt="Deepak's GitHub Streak"/>
 </div>
-
----
-
-### 📈 **Professional Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaknegi&theme=github-light&hide_border=true&bg_color=ffffff&color=5D3FD3&line=1E90FF&point=333333" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:1E90FF&height=100&section=footer" width="100%"/>
-</div>
-
