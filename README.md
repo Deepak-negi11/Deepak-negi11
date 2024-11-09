@@ -4,19 +4,18 @@
 </div>
 
 ### 👋 Hi, I'm Deepak Negi!
-
-I'm a passionate **MERN Stack**, **Web3**, and **Robotics** developer. I love building cool projects, learning new tech, and working with decentralized systems. Let's make the world a better place, one line of code at a time! 🚀
+I’m a passionate **MERN Stack**, **Web3**, and **Robotics** developer. I love building cool projects, learning new tech, and exploring the exciting world of decentralized systems. Let's make the world a better place with code! 🚀
 
 ---
 
 ### 🛠 **Tech Stack**  
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web3.js-333333?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Web3.js-333333?style=flat&logo=ethereum&logoColor=white" alt="Web3" width="80" height="80" style="transition: transform 0.3s;"/>
 </div>
 
 ---
@@ -32,11 +31,11 @@ I'm a passionate **MERN Stack**, **Web3**, and **Robotics** developer. I love bu
 ### ⚙️ **Tools I Use**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-FF0000?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF0000?style=flat&logo=git&logoColor=white" alt="Git" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" width="80" height="80" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="80" height="80" style="transition: transform 0.3s;"/>
 </div>
 
 ---
@@ -44,12 +43,10 @@ I'm a passionate **MERN Stack**, **Web3**, and **Robotics** developer. I love bu
 ### 🚀 **Notable Projects**
 
 #### **MERN Blog App**
-- A full-stack blog app with user authentication, CRUD functionality, and a clean UI.
-- Built with **React**, **Node.js**, **Express**, **MongoDB**.
+- A full-stack blog app with user authentication, CRUD functionality, and a clean UI. Built with **React**, **Node.js**, **Express**, and **MongoDB**.
 
 #### **Web3 Voting DApp**
-- A decentralized voting app on the **Ethereum** blockchain.
-- Built using **Web3.js** and **Solidity**.
+- A decentralized voting app on the **Ethereum** blockchain, built using **Web3.js** and **Solidity**.
 
 ---
 
@@ -69,4 +66,3 @@ I'm a passionate **MERN Stack**, **Web3**, and **Robotics** developer. I love bu
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0066CC&height=100&section=footer" width="100%"/>
 </div>
-
