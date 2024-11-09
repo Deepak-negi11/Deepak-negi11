@@ -23,7 +23,7 @@
 ### 🌌 **Tech Universe**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,c,git,github,vscode&perline=6&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,c,git,github,vscode&perline=6&theme=dark" />
 </div>
 
 ---
@@ -57,19 +57,38 @@
 
 ---
 
-### 📊 **Minimalist Stats**
+### 🧑‍💻 **Dynamic Projects**
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepaknegi&show_icons=true&theme=transparent&bg_color=ffffff&hide_border=true&icon_color=5D3FD3&title_color=1E90FF" alt="Deepak's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaknegi&theme=transparent&background=ffffff&hide_border=true&ring=5D3FD3&fire=1E90FF&currStreakLabel=1E90FF" alt="Deepak's GitHub Streak"/>
-</div>
+#### **1. Web3 - Decentralized Voting Platform**
+- 🌐 **Description**: Build a decentralized application (dApp) for secure and transparent voting.
+- 🔗 **Tech Stack**: React, Web3.js, Ethereum Smart Contracts
+- 🔥 **Challenges**: Integrating Web3 authentication and building smart contracts with Solidity.
+
+#### **2. Smart Robotics**
+- 🤖 **Description**: Develop a basic robot with IoT capabilities to control it remotely via a mobile app.
+- 🔗 **Tech Stack**: C, IoT, Robotics Engineering, MQTT
+- 🚀 **Key Learning**: Bridging the physical world with digital control systems.
+
+#### **3. MERN Stack Blog Application**
+- 📝 **Description**: A full-fledged blog website that allows users to create and share content.
+- 🔗 **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+- ⚡ **Highlights**: User authentication, comment system, responsive design.
 
 ---
 
-### 📈 **Professional Activity Graph**
+### ✨ **Fun Facts About Me**
+
+- **🔥 Passionate About Tech**: From building robots to creating dApps, technology excites me every day.
+- **🚀 Goal**: To make a meaningful impact by building useful, scalable tech solutions.
+- **📚 Learning Everyday**: Always open to learning new frameworks, libraries, and exploring Web3 & Robotics.
+
+---
+
+### 🚀 **GitHub Stats & Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaknegi&theme=github-light&hide_border=true&bg_color=ffffff&color=5D3FD3&line=1E90FF&point=333333" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepaknegi&show_icons=true&theme=highcontrast&bg_color=ffffff&hide_border=true&icon_color=5D3FD3&title_color=1E90FF" alt="Deepak's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaknegi&theme=highcontrast&background=ffffff&hide_border=true&ring=5D3FD3&fire=1E90FF&currStreakLabel=1E90FF" alt="Deepak's GitHub Streak"/>
 </div>
 
 ---
@@ -77,4 +96,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:1E90FF&height=100&section=footer" width="100%"/>
 </div>
-
