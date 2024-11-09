@@ -31,6 +31,12 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+     <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
