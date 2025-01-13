@@ -63,12 +63,6 @@
 
 ---
 
-### 📫 Get in Touch:
-
-- **Email**: [deepaknegi108r@gmail.com](mailto:deepaknegi108r@gmail.com)
-- **Twitter**: [@deepak_negi__](https://twitter.com/deepak_negi__)
-- **LinkedIn**: [Deepak Negi](https://www.linkedin.com/in/deepak-negi-678261302)
-
 
 ### 📊 **Minimalist Stats**
 
