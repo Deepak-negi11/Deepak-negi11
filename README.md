@@ -56,13 +56,6 @@
 
 ---
 
-### 🌱 Currently Learning:
-- **Web3 Development**
-- **Blockchain**
-- **Robotics**
-
----
-
 
 ### 📊 **Minimalist Stats**
 
